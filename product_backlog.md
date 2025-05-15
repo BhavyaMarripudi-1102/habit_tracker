@@ -7,120 +7,119 @@ This backlog contains all user stories grouped by feature section, along with th
 ## 🔐 Login / Registration
 
 - **Account Registration**  
-  Labels: enhancement, priority: high  
-  Description: Allow users to register using name, username, age, and country.
+  Description: Register with name, username, age, country  
+  Labels: enhancement, priority: high
 
 - **Login**  
-  Labels: enhancement, priority: high  
-  Description: Enable users to log in using their username and password.
+  Description: Log in using username and password  
+  Labels: enhancement, priority: high
 
 - **Error Feedback on Login**  
-  Labels: enhancement, priority: medium  
-  Description: Display appropriate message when login fails.
+  Description: Show message for incorrect login  
+  Labels: enhancement, priority: medium
 
 ---
 
 ## 🏠 Home Page
 
 - **Welcome Message**  
-  Labels: enhancement, priority: medium  
-  Description: Show personalized welcome message with user’s name.
+  Description: Show user's name on home screen  
+  Labels: enhancement, priority: medium
 
 - **Weekly Progress**  
-  Labels: enhancement, priority: high  
-  Description: Show daily/weekly progress for each habit.
+  Description: Show habit progress chart  
+  Labels: enhancement, priority: high
 
 - **Completed Habits**  
-  Labels: enhancement, priority: medium  
-  Description: Display a list of completed habits separately.
+  Description: Display list of completed habits  
+  Labels: enhancement, priority: medium
 
 ---
 
 ## 📋 Menu
 
 - **Access Menu Options**  
-  Labels: enhancement, priority: high  
-  Description: Provide a menu with links to profile, habits, reports, and logout.
+  Description: Links to profile, habits, reports, logout  
+  Labels: enhancement, priority: high
 
 - **Navigate to Profile**  
-  Labels: enhancement, priority: medium  
-  Description: Enable navigation from menu to profile page.
+  Description: Go to profile page from menu  
+  Labels: enhancement, priority: medium
 
 - **Navigate to Habits Page**  
-  Labels: enhancement, priority: medium  
-  Description: Enable navigation from menu to habits page.
+  Description: Go to habits page from menu  
+  Labels: enhancement, priority: medium
 
 - **Sign Out**  
-  Labels: enhancement, priority: high  
-  Description: Allow users to securely log out from menu.
+  Description: Logout from app via menu  
+  Labels: enhancement, priority: high
 
 ---
 
 ## 👤 Profile Page
 
 - **View Info**  
-  Labels: enhancement, priority: medium  
-  Description: Show saved user details like name, age, etc.
+  Description: Show user’s registration info  
+  Labels: enhancement, priority: medium
 
 - **Edit Info**  
-  Labels: enhancement, priority: medium  
-  Description: Allow user to edit their profile fields.
+  Description: Edit name, username, age, country  
+  Labels: enhancement, priority: medium
 
 - **Save Updates**  
-  Labels: enhancement, priority: high  
-  Description: Store updated user details after editing.
+  Description: Save edited user profile  
+  Labels: enhancement, priority: high
 
 - **Header Name Update**  
-  Labels: enhancement, priority: low  
-  Description: Show updated name in the header dynamically.
+  Description: Update name in app header after edit  
+  Labels: enhancement, priority: low
 
 ---
 
 ## 🔄 Habits Page
 
 - **Add Habit**  
-  Labels: enhancement, priority: high  
-  Description: Let users add new habits.
+  Description: Add new habits  
+  Labels: enhancement, priority: high
 
 - **Delete Habit**  
-  Labels: enhancement, priority: medium  
-  Description: Allow users to remove habits.
+  Description: Delete existing habits  
+  Labels: enhancement, priority: medium
 
 - **Color Customization**  
-  Labels: enhancement, priority: low  
-  Description: Assign colors to habits for personalization.
+  Description: Assign colors to habits  
+  Labels: enhancement, priority: low
 
 ---
 
 ## 📊 Reports Page
 
 - **View Weekly Report**  
-  Labels: enhancement, priority: high  
-  Description: Show weekly performance for all habits.
+  Description: Weekly habit report  
+  Labels: enhancement, priority: high
 
-- **Visualize Completed**  
-  Labels: enhancement, priority: medium  
-  Description: Display completed habits via chart or timeline.
+- **Visualize Completed Habits**  
+  Description: Chart showing completed habits  
+  Labels: enhancement, priority: medium
 
 - **View All Habits**  
-  Labels: enhancement, priority: medium  
-  Description: Show both completed and incomplete habits in reports.
+  Description: Show complete + incomplete habits  
+  Labels: enhancement, priority: medium
 
 ---
 
 ## 🔔 Notifications Page
 
 - **Enable/Disable Notifications**  
-  Labels: enhancement, priority: medium  
-  Description: Let users turn habit notifications on or off.
+  Description: Turn reminders on or off  
+  Labels: enhancement, priority: medium
 
 - **Add Habits to Notify**  
-  Labels: enhancement, priority: high  
-  Description: Allow users to choose specific habits to notify.
+  Description: Choose which habits send reminders  
+  Labels: enhancement, priority: high
 
 - **Set Times**  
-  Labels: enhancement, priority: medium  
-  Description: Allow user to set morning, afternoon, evening times.
+  Description: Set morning, afternoon, evening times  
+  Labels: enhancement, priority: medium
 
 ---
-
